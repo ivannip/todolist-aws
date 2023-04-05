@@ -20,6 +20,12 @@
       },
       "api": {
         "apitodolistv1": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d307mscmnzesrg",
+          "type": "cicd"
+        }
       }
     }
   }

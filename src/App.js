@@ -17,7 +17,7 @@ import "primereact/resources/themes/lara-light-indigo/theme.css"; //theme
 import "primereact/resources/primereact.min.css"; //core css
 import "primeicons/primeicons.css"; //icons
 
-const myAPI = "apitodolist";
+const myAPI = "apitodolistv1";
 const path ="/api/toDoList";
 
 function App() {
