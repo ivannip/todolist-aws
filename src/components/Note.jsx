@@ -8,7 +8,7 @@ import { Button } from 'primereact/button';
 import { BlockUI } from 'primereact/blockui'; 
 
 
-const myAPI = "apitodolist";
+const myAPI = "apitodolistv1"; //api name in aws api gateway
 const path ="/api/toDoList";
 
 function Note(props) {

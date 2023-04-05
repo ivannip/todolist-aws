@@ -5,7 +5,7 @@ import {API} from "aws-amplify";
 import { InputText } from "primereact/inputtext";
 import { Button } from "primereact/button";
 
-const myAPI = "apitodolist";
+const myAPI = "apitodolistv1"; //api name in aws api gateway
 const path ="/api/toDoList";
 
 function InputList(props) {
