@@ -17,7 +17,7 @@ import "primereact/resources/themes/lara-light-indigo/theme.css"; //theme
 import "primereact/resources/primereact.min.css"; //core css
 import "primeicons/primeicons.css"; //icons
 
-const myAPI = "apitodolistv1";
+const myAPI = "apitodolistv1"; //api name in aws api gateway
 const path ="/api/toDoList";
 
 function App() {
